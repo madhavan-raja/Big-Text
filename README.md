@@ -1,4 +1,4 @@
-# Big-Font
+# Big-Text
 Python script to display larger texts using multiple characters
 
 For example, 'HI' will be displayed as
