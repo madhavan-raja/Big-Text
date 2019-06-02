@@ -1,7 +1,7 @@
 # Characters with a width of 3
 
 
-class Font:
+class Palette:
     height = 5
 
     chars = {'A': [['111'],
