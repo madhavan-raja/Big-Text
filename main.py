@@ -1,4 +1,4 @@
-import bigfont
+import bigtext
 import time
 
 
@@ -10,7 +10,7 @@ def main():
 
 def show_time():
     cur_time = time.gmtime()
-    bigfont.display(f'{cur_time.tm_hour}:{cur_time.tm_min}:{cur_time.tm_sec}', 2)
+    bigtext.display(f'{cur_time.tm_hour}:{cur_time.tm_min}:{cur_time.tm_sec}', 2)
 
 
 if __name__ == '__main__':
